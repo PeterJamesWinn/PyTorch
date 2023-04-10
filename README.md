@@ -55,3 +55,9 @@ Has an example with full batch and one with mini batches.
 compared to the binary training examples that I implemented this has better
 initialization of the output layer, to give more even probability predictions
 on initialization. 
+
+colab_PyG_GCNConv_tutorial_embedding_classification
+Simple embedding and classification task using GCNConv
+graphical conv networks on Zachary's Karate club data. Taken from
+the tutorial at 
+https://colab.research.google.com/drive/1h3-vJGRVloF5zStxL5I0rSy4ZUPNsjy8?usp=sharing#scrollTo=1-W5Kfhu5I-P
